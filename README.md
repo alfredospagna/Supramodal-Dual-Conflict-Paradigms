@@ -1,6 +1,10 @@
 # Supramodal-Dual-Conflict-Paradigms
 CSV files and python code to reproduce figures and results in the article "Supramodal executive control of attention: evidence from unimodal and crossmodal dual conflict effects". 
 
-The csv files contain the full results on accuracy and RTs for the unimodal (UV) and crossmodal (CM) dual conflict paradimgs used in our task. 
+.. /Code_forFigures has the py code and the csv files to reproduce the figures
 
-If used, reference to this github page and to the preprint of the article that can be found here:
+../Data/CM-DCP and ../Data/VM-DCP contain archive file with the Emerge (file too big to bi unarchived), the xlsx files and the demographics for each of the tasks
+
+../Tasks contains the Eprime and ERun files to run each of the two tasks
+
+../Simuli_CD-DCP and ../Stimuli_UV-DCP contain the stimuli to run each of the tasks
