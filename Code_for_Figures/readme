@@ -1,1 +1,5 @@
-test
+Figure2_lineplot.py
+contains the code to reproduce Figure 2 of the article and calls for the 4 csv files (DCT_SM - ERR_plots.csv ; DCT_SM - RT_plots.csv ; DCT_V - ERR_plots.csv ; DCT_V - RT_plots.csv)
+
+Figure3_AdditiveAtShortMainScatterplot.py
+contains the code to reproduce Figure 2 of the article and calls for the AdditiveAtShortMainScatterplot_column.csv file
