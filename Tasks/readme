@@ -1,1 +1,13 @@
-files eprime to run the task
+CM_DCT_fMRI_8runs_06_09_2016.ebs2
+and
+CM_DCT_fMRI_8runs_06_09_2016.es2
+
+are the e-run and eprime files to run the behavioral CM-DCP study
+
+DCT_Behavior_2009_06_09_v2.ebs
+and
+DCT_Behavior_2009_06_09_v2.es
+are the e-run eprime files to run the behavioral CM-DCP study
+
+Stimuli_CM-DCP contains the stimuli required to run the crossmodal task
+Stimuli_UV-DCP contains the stimuli required to run the unimodal task
